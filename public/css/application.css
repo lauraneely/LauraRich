@@ -1,7 +1,11 @@
-
 .jumbotron {
  margin-top: 5em;
  background-color: #FAF9F9;
  border: solid 2px #BEE3BD;
  color: #555B6E;
+}
+.navbar {
+  background-color:#BEE3DB;
+  border: solid 1px #555B6E;
+  color: #555B6E;
 }
